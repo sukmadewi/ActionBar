@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_activity">Sukma Dewi Wulansari</string>
+    <string name="this_fragment">Ini adalah menu fragment</string>
+    <string name="search">Search</string>
+    <string name="menu1">Menu1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_1">menu 1</string>
+    <string name="search_hint">Masukkan kata</string>
+</resources>
